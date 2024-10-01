@@ -1,0 +1,1 @@
+This repository contains code for BDT Final project. In this project, we stream news we fetch through a news API to a kafka topic. From our spark application, we consume this streaming data and write to CSV file locally. 
